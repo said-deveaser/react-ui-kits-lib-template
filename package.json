@@ -1,5 +1,5 @@
 {
-  "name": "fmobile-ui-kits",
+  "name": "@fmobile/fmobile-ui-kits",
   "version": "0.0.1",
   "description": "fmobile UI Kits",
   "main": "lib/index.js",
