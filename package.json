@@ -1,12 +1,12 @@
 {
   "name": "fmobile-ui-kits",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.0.1",
+  "description": "fmobile UI Kits",
   "main": "lib/index.js",
   "module": "lib/index.esm.js",
   "types": "lib/index.d.ts",
   "scripts": {
-    "build": "rollup -c"  ,
+    "build": "rollup -c --bundleConfigAsCjs"  ,
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook"
   },
